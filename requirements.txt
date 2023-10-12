@@ -1,3 +1,7 @@
 openai
 langchain
 streamlit
+chromadb
+PyPDF2
+faiss-cpu
+tiktoken
